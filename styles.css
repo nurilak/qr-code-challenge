@@ -1,0 +1,38 @@
+body {
+  background-color: #d5e1ef;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.1875px;
+  margin: 0;
+}
+
+div {
+  background-color: #ffffff;
+  width: 320px;
+  border-radius: 20px;
+  padding: 16px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #1f314f;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+p {
+  margin: 16px 32px 40px;
+}
